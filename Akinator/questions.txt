@@ -1,0 +1,16 @@
+0 R vole
+1 G machine
+2 G rotor
+3 G heli
+3 D avion
+2 D quack
+3 G canard
+3 D oiseau
+1 D aboie
+2 G chien
+2 D rongeur
+3 G rongeur aussi
+4 G rat
+4 D hamster
+3 D long cou
+4 G giraffe
